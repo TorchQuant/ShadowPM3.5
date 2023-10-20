@@ -1,6 +1,6 @@
-# Shadow PM 3.0
+# Shadow PM 3.5
 
-Shadow PM 3.0 is a predictive modeling project for stock market analysis using machine learning. It leverages historical stock data to predict future stock price movements and analyze the performance of a trading strategy.
+Shadow PM 3.5 is a predictive modeling project for stock market analysis using machine learning. It leverages historical stock data to predict future stock price movements and analyze the performance of a trading strategy.
 
 ## Importing Libraries
 
@@ -30,7 +30,7 @@ The project includes various functions for tasks such as calculating directional
 
 ## Importing The Dataset
 
-The project reads and processes two datasets: one with a 12-month lag and another with a 0-month lag. These datasets contain historical stock data used for training and testing the predictive model.
+The project reads and processes two datasets: one with a 12-month lag and another with a 0-month lag. These datasets contain stock data used for training and testing the predictive model.
 
 ## Training and the Model and Predicting Returns
 
@@ -39,11 +39,16 @@ The code trains a predictive model for stock price movements and makes predictio
 ## Data Analysis and Visualization
 
 The project includes data analysis and visualization steps to assess the performance of the predictive model. Metrics such as Mean Squared Error (MSE), Directional Accuracy, R-squared (R^2), correlation, and more are calculated and stored in an Excel file for further analysis.
+Analysis sheet can be found in returns excel file which gives overall overview of Model's performance.
 
 ## Net Asset Value (NAV) Calculation
 
 The project calculates the Net Asset Value (NAV) for both top and bottom stocks based on the predicted and actual returns. The results are stored in an Excel file for analysis.
 
+### What is NAV?
+
+If we allocate the resources(e.g - 100 dollars) equally among top n stocks the cummulative return of every stock we get after a year is defined as net asset value.
+
 ## Conclusion
 
-Shadow PM 3.0 is a comprehensive project for stock market analysis and prediction. It uses machine learning techniques and various metrics to assess the performance of the predictive model. The results and analysis are stored in Excel files for further evaluation.
+Shadow PM 3.5 is a comprehensive project for stock market analysis and prediction. It uses machine learning techniques and various metrics to assess the performance of the predictive model. The results and analysis are stored in Excel files for further evaluation.
