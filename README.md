@@ -19,6 +19,10 @@ This project utilizes various Python libraries and packages, including:
 - `openpyxl`: For Excel file handling.
 - `warnings`: To suppress certain warning messages.
 
+![Sample Image](https://drive.google.com/file/d/1H12D-PUbWdTQGaJBqkMF9UGpvqXG_Y2v/view?usp=share_link)
+
+![Sample Image](https://drive.google.com/file/d/1lMqpoePByHyY-p_rVz4Uy5bXddEg22Kn/view?usp=share_link)
+
 ## Setting Global Parameters
 
 The project defines several global parameters:
