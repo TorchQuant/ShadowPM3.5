@@ -4,6 +4,8 @@ Shadow PM 3.5 is a predictive modeling project for stock market analysis using m
 
 For a detailed tutorial on the code and its usage, please refer to [this link](https://drive.google.com/file/d/1IQnMbn8E1zhCy5qZLgkZP6m4wMMTk7ch/view?usp=share_link).
 
+The SPM model uses LGBM model for prediction [read more...](https://lightgbm.readthedocs.io/en/latest/Installation-Guide.html)
+
 ## Importing Libraries
 
 This project utilizes various Python libraries and packages, including:
